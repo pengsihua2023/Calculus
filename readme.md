@@ -11,12 +11,10 @@
 - [05. 极限运算法则与重要极限](https://github.com/pengsihua2023/Calculus/blob/main/01.%20%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/05.%20%E6%9E%81%E9%99%90%E8%BF%90%E7%AE%97%E6%B3%95%E5%88%99%E4%B8%8E%E9%87%8D%E8%A6%81%E6%9E%81%E9%99%90.md)
 - [06. 连续性与间断点](https://github.com/pengsihua2023/Calculus/blob/main/01.%20%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/06.%20%E8%BF%9E%E7%BB%AD%E6%80%A7%E4%B8%8E%E9%97%B4%E6%96%AD%E7%82%B9.md)
 - [函数的极限综合练习题](https://github.com/pengsihua2023/Calculus/blob/main/01.%20%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/%E5%87%BD%E6%95%B0%E7%9A%84%E6%9E%81%E9%99%90%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0%E9%A2%98.md)
-- 
+
 ---
 
 ### 二、[微分学（导数与微分）]
-
-(https://github.com/pengsihua2023/Calculus/blob/main/04.%20%E7%A7%AF%E5%88%86%E5%AD%A6%EF%BC%88%E7%A7%AF%E5%88%86%E7%90%86%E8%AE%BA)/01.%20%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F.md)
 
 * [导数的定义与几何意义](https://github.com/pengsihua2023/Calculus/blob/main/02.%20%E5%BE%AE%E5%88%86%E5%AD%A6%EF%BC%88%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86%EF%BC%89/01.%20%E5%AF%BC%E6%95%B0%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E5%87%A0%E4%BD%95%E6%84%8F%E4%B9%89.md)
 * [基本求导法则](https://github.com/pengsihua2023/Calculus/blob/main/02.%20%E5%BE%AE%E5%88%86%E5%AD%A6%EF%BC%88%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86%EF%BC%89/02.%20%E5%9F%BA%E6%9C%AC%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.md)
@@ -38,10 +36,8 @@
 
 ---
 
-[rr](https://github.com/pengsihua2023/Calculus/blob/main/04.%20%E7%A7%AF%E5%88%86%E5%AD%A6%EF%BC%88%E7%A7%AF%E5%88%86%E7%90%86%E8%AE%BA)/01.%20%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F.md)
-
 ### 四、积分学（积分理论）
-- [不定积分与积分公式](https://github.com/pengsihua2023/Calculus/blob/main/04.%20%E7%A7%AF%E5%88%86%E5%AD%A6%EF%BC%88%E7%A7%AF%E5%88%86%E7%90%86%E8%AE%BA)/01.%20%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F.md)
+- [不定积分与积分公式](https://github.com/pengsihua2023/Calculus/blob/main/03.%20%E5%BE%AE%E5%88%86%E5%AD%A6%E7%9A%84%E5%BA%94%E7%94%A8/05.%20%E8%BF%91%E4%BC%BC%E8%AE%A1%E7%AE%97%E4%B8%8E%E6%B3%B0%E5%8B%92%E5%85%AC%E5%BC%8F.md)
 
 * [不定积分与积分公]   opo[https://github.com/pengsihua2023/Calculus/blob/main/04.%20%E7%A7%AF%E5%88%86%E5%AD%A6%EF%BC%88%E7%A7%AF%E5%88%86%E7%90%86%E8%AE%BA)/02.%20%E5%AE%9A%E7%A7%AF%E5%88%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%80%A7%E8%B4%A8.md]
 * [定积分的定义与性质]
