@@ -1,4 +1,4 @@
-- [01. 函数的概念与基本初等函数.md](https://github.com/pengsihua2023/Calculus/blob/main/01.%20%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/01.%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%9F%BA%E6%9C%AC%E5%88%9D%E7%AD%89%E5%87%BD%E6%95%B0.md)
+- [01. 函数的概念与基本初等函数](https://github.com/pengsihua2023/Calculus/blob/main/01.%20%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/01.%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%9F%BA%E6%9C%AC%E5%88%9D%E7%AD%89%E5%87%BD%E6%95%B0.md)
 - [02. 数列与极限](https://github.com/pengsihua2023/Calculus/blob/main/01.%20%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/02.%20%E6%95%B0%E5%88%97%E4%B8%8E%E6%9E%81%E9%99%90.md)
 - [03. 函数的极限](https://github.com/pengsihua2023/Calculus/blob/main/01.%20%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/03.%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%9E%81%E9%99%90.md)
 - [04. 无穷小与无穷大](https://github.com/pengsihua2023/Calculus/blob/main/01.%20%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/04.%20%E6%97%A0%E7%A9%B7%E5%B0%8F%E4%B8%8E%E6%97%A0%E7%A9%B7%E5%A4%A7.md)
