@@ -38,7 +38,7 @@
 
 ### 四、积分学（积分理论）
 
-* [不定积分与积分公式](https://github.com/pengsihua2023/Calculus/blob/main/04.%20%E7%A7%AF%E5%88%86%E5%AD%A6%EF%BC%88%E7%A7%AF%E5%88%86%E7%90%86%E8%AE%BA)/01.%20%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F.md)
+* [不定积分与积分公](https://github.com/pengsihua2023/Calculus/blob/main/04.%20%E7%A7%AF%E5%88%86%E5%AD%A6%EF%BC%88%E7%A7%AF%E5%88%86%E7%90%86%E8%AE%BA)/01.%20%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F.md)
 * [定积分的定义与性质]()
 * [牛顿–莱布尼茨公式]()
 * [积分方法（换元法、分部积分法、分项展开等）]()
