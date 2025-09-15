@@ -37,6 +37,7 @@
 ---
 
 ### 四、积分学（积分理论）
+- [不定积分与积分公式](https://github.com/pengsihua2023/Calculus/blob/main/04.%20%E7%A7%AF%E5%88%86%E5%AD%A6%EF%BC%88%E7%A7%AF%E5%88%86%E7%90%86%E8%AE%BA)/01.%20%E4%B8%8D%E5%AE%9A%E7%A7%AF%E5%88%86%E4%B8%8E%E7%A7%AF%E5%88%86%E5%85%AC%E5%BC%8F.md)
 
 * [不定积分与积分公]   opo[https://github.com/pengsihua2023/Calculus/blob/main/04.%20%E7%A7%AF%E5%88%86%E5%AD%A6%EF%BC%88%E7%A7%AF%E5%88%86%E7%90%86%E8%AE%BA)/02.%20%E5%AE%9A%E7%A7%AF%E5%88%86%E7%9A%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E6%80%A7%E8%B4%A8.md]
 * [定积分的定义与性质]
