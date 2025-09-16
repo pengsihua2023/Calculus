@@ -14,12 +14,12 @@
 
 ---
 - I. Functions and Limits
-- 01. The Concept of Functions and Basic Elementary Functions
-- 02. Sequences and Limits
-- 03. Limits of Functions
-- 04. Infinitesimals and Infinites
-- 05. Limit Laws and Important Limits
-- 06. Continuity and Discontinuities
+- 01 The Concept of Functions and Basic Elementary Functions
+- 02 Sequences and Limits
+- 03 Limits of Functions
+- 04 Infinitesimals and Infinites
+- 05 Limit Laws and Important Limits
+- 06 Continuity and Discontinuities
 
 ---
 
@@ -37,13 +37,13 @@
 
 II. Differential Calculus (Derivatives and Differentials)
 
-- Definition and Geometric Meaning of Derivatives
-- Basic Differentiation Rules
-- Higher-Order Derivatives
-- Differentiation of Implicit Functions and Parametric Equations
-- Related Rates Problems
-- The Concept and Applications of Differentials
-- L’Hospital’s Rule and Comparison of Infinitesimals
+- 01 Definition and Geometric Meaning of Derivatives
+- 02 Basic Differentiation Rules
+- 03 Higher-Order Derivatives
+- 04 Differentiation of Implicit Functions and Parametric Equations
+- 05 Related Rates Problems
+- 06 The Concept and Applications of Differentials
+- 07 L’Hospital’s Rule and Comparison of Infinitesimals
 
 ---
 
@@ -74,10 +74,10 @@ III. Applications of Differential Calculus
 ---
 IV. Integral Calculus (Theory of Integration)
 
-Indefinite Integrals and Integration Formulas
-Definition and Properties of Definite Integrals
-Newton–Leibniz Formula
-Integration Methods (Substitution, Integration by Parts, Partial Fractions, etc.)
+- Indefinite Integrals and Integration Formulas
+- Definition and Properties of Definite Integrals
+- Newton–Leibniz Formula
+- Integration Methods (Substitution, Integration by Parts, Partial Fractions, etc.)
 ---
 
 ### 五、积分学的应用
@@ -88,9 +88,9 @@ Integration Methods (Substitution, Integration by Parts, Partial Fractions, etc.
 ---
 V. Applications of Integral Calculus
 
-Applications of Definite Integrals in Geometry (Area of Curvilinear Trapezoids, Volumes of Solids of Revolution, Arc Length, Surface Area)
-Applications of Definite Integrals in Physics (Work, Center of Mass, Moments, etc.)
-Improper Integrals
+- Applications of Definite Integrals in Geometry (Area of Curvilinear Trapezoids, Volumes of Solids of Revolution, Arc Length, Surface Area)
+- Applications of Definite Integrals in Physics (Work, Center of Mass, Moments, etc.)
+- Improper Integrals
 ---
 
 ### 六、数列与级数
@@ -103,10 +103,10 @@ Improper Integrals
 ---
 VI. Sequences and Series
 
-Series of Terms and Convergence Tests
-Power Series and Interval of Convergence
-Taylor Series Expansion
-Fourier Series
+- Series of Terms and Convergence Tests
+- Power Series and Interval of Convergence
+- Taylor Series Expansion
+- Fourier Series
 ---
 
 ### 七、多元函数微积分
@@ -122,13 +122,13 @@ Fourier Series
 ---
 VII. Multivariable Calculus
 
-Multivariable Functions and Partial Derivatives
-Total Differential and Differentiability
-Extrema and Constrained Extrema of Multivariable Functions (Lagrange Multipliers)
-Multiple Integrals (Plane and Spatial Regions)
-Applications of Multiple Integrals
-Line Integrals and Surface Integrals
-Green’s Theorem, Stokes’ Theorem, Gauss’s Theorem
+- Multivariable Functions and Partial Derivatives
+- Total Differential and Differentiability
+- Extrema and Constrained Extrema of Multivariable Functions (Lagrange Multipliers)
+- Multiple Integrals (Plane and Spatial Regions)
+- Applications of Multiple Integrals
+- Line Integrals and Surface Integrals
+- Green’s Theorem, Stokes’ Theorem, Gauss’s Theorem
 ---
 
 ### 八、微分方程
@@ -140,8 +140,8 @@ Green’s Theorem, Stokes’ Theorem, Gauss’s Theorem
 ---
 VIII. Differential Equations
 
-First-Order Differential Equations
-Higher-Order Ordinary Differential Equations
-Simple Applications (Five Financial Models)
+- First-Order Differential Equations
+- Higher-Order Ordinary Differential Equations
+- Simple Applications (Five Financial Models)
 ---
 
