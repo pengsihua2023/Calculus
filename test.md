@@ -26,7 +26,7 @@ $$\lim_{x \to 2} \frac{x^2 - 4}{x - 2} = \lim_{x \to 2} \frac{2x}{1} = 4$$
 
 $$\lim_{x \to 0} \frac{\sin 3x}{x} = \lim_{x \to 0} \frac{\sin 3x}{3x} \cdot 3 = 3 \lim_{x \to 0} \frac{\sin 3x}{3x}$$
 
-令 $t = 3x$ ，当 $x \to 0$ 时，$t \to 0$ ：
+令 $t = 3x$ ，当 $x \to 0$ 时， $t \to 0$ ：
 $$3 \lim_{t \to 0} \frac{\sin t}{t} = 3 \cdot 1 = 3$$
 
 **答案**：3
