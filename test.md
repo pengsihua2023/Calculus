@@ -159,7 +159,7 @@ $$\lim_{x \to 0} \frac{\tan x - \sin x}{x^3} = \lim_{x \to 0} \frac{\frac{x^3}{2
 **解答**：
 利用重要极限 $\lim_{t \to 0} (1 + t)^{\frac{1}{t}} = e$
 
-令 $t = 2x$，当 $x \to 0$ 时，$t \to 0$：
+令 $t = 2x$ ，当 $x \to 0$ 时， $t \to 0$ ：
 $$\lim_{x \to 0} (1 + 2x)^{\frac{1}{x}} = \lim_{x \to 0} (1 + 2x)^{\frac{2}{2x}} = \lim_{x \to 0} [(1 + 2x)^{\frac{1}{2x}}]^2$$
 
 $$= \lim_{t \to 0} [(1 + t)^{\frac{1}{t}}]^2 = e^2$$
