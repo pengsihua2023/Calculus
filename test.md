@@ -48,7 +48,7 @@ $$\lim_{x \to +\infty} \frac{3x^2 + 2x - 1}{2x^2 - x + 5} = \lim_{x \to +\infty}
 因此：
 $$\lim_{x \to +\infty} \frac{3 + 0 - 0}{2 - 0 + 0} = \frac{3}{2}$$
 
-**答案**：$\frac{3}{2}$
+**答案**： $\frac{3}{2}$
 
 ---
 
@@ -85,7 +85,7 @@ $$= \lim_{x \to 1} \frac{(x+3) - 4}{(x - 1)(\sqrt{x+3} + 2)} = \lim_{x \to 1} \f
 
 $$= \lim_{x \to 1} \frac{1}{\sqrt{x+3} + 2} = \frac{1}{\sqrt{4} + 2} = \frac{1}{4}$$
 
-**答案**：$\frac{1}{4}$
+**答案**： $\frac{1}{4}$
 
 ---
 
@@ -106,7 +106,7 @@ $$= \lim_{x \to 0} \frac{2\sin^2(\frac{x}{2})}{4(\frac{x}{2})^2} = \frac{2}{4} \
 方法二：洛必达法则（两次）
 $$\lim_{x \to 0} \frac{1 - \cos x}{x^2} = \lim_{x \to 0} \frac{\sin x}{2x} = \lim_{x \to 0} \frac{\cos x}{2} = \frac{1}{2}$$
 
-**答案**：$\frac{1}{2}$
+**答案**： $\frac{1}{2}$
 
 ---
 
@@ -148,7 +148,7 @@ $$= \frac{x^3}{3} + \frac{x^3}{6} + O(x^5) = \frac{x^3}{2} + O(x^5)$$
 所以：
 $$\lim_{x \to 0} \frac{\tan x - \sin x}{x^3} = \lim_{x \to 0} \frac{\frac{x^3}{2} + O(x^5)}{x^3} = \frac{1}{2}$$
 
-**答案**：$\frac{1}{2}$
+**答案**： $\frac{1}{2}$
 
 ---
 
@@ -164,7 +164,7 @@ $$\lim_{x \to 0} (1 + 2x)^{\frac{1}{x}} = \lim_{x \to 0} (1 + 2x)^{\frac{2}{2x}}
 
 $$= \lim_{t \to 0} [(1 + t)^{\frac{1}{t}}]^2 = e^2$$
 
-**答案**：$e^2$
+**答案**： $e^2$
 
 ---
 
@@ -191,7 +191,7 @@ $$= \lim_{n \to \infty} \frac{2 \cdot \frac{1}{1 + \frac{1}{n}} \cdot \left(-\fr
 
 因此：$\lim_{n \to \infty} y = e^2$
 
-**答案**：$e^2$
+**答案**： $e^2$
 
 ---
 
