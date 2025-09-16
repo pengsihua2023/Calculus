@@ -13,14 +13,13 @@
 - [函数的极限综合练习题](https://github.com/pengsihua2023/Calculus/blob/main/01.%20%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/%E5%87%BD%E6%95%B0%E7%9A%84%E6%9E%81%E9%99%90%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0%E9%A2%98.md)
 
 ---
-I. Functions and Limits
-01. The Concept of Functions and Basic Elementary Functions
-02. Sequences and Limits
-03. Limits of Functions
-04. Infinitesimals and Infinites
-05. Limit Laws and Important Limits
-06. Continuity and Discontinuities
-Comprehensive Exercises on Limits of Functions
+- I. Functions and Limits
+- 01. The Concept of Functions and Basic Elementary Functions
+- 02. Sequences and Limits
+- 03. Limits of Functions
+- 04. Infinitesimals and Infinites
+- 05. Limit Laws and Important Limits
+- 06. Continuity and Discontinuities
 
 ---
 
@@ -38,13 +37,13 @@ Comprehensive Exercises on Limits of Functions
 
 II. Differential Calculus (Derivatives and Differentials)
 
-Definition and Geometric Meaning of Derivatives
-Basic Differentiation Rules
-Higher-Order Derivatives
-Differentiation of Implicit Functions and Parametric Equations
-Related Rates Problems
-The Concept and Applications of Differentials
-L’Hospital’s Rule and Comparison of Infinitesimals
+- Definition and Geometric Meaning of Derivatives
+- Basic Differentiation Rules
+- Higher-Order Derivatives
+- Differentiation of Implicit Functions and Parametric Equations
+- Related Rates Problems
+- The Concept and Applications of Differentials
+- L’Hospital’s Rule and Comparison of Infinitesimals
 
 ---
 
@@ -60,11 +59,11 @@ L’Hospital’s Rule and Comparison of Infinitesimals
 ---
 III. Applications of Differential Calculus
 
-Monotonicity and Extrema of Functions
-Concavity, Convexity, and Inflection Points
-Asymptotes and Curve Sketching
-Maximum and Minimum Value Problems
-Approximation and Taylor’s Formula
+- Monotonicity and Extrema of Functions
+- Concavity, Convexity, and Inflection Points
+- Asymptotes and Curve Sketching
+- Maximum and Minimum Value Problems
+- Approximation and Taylor’s Formula
 ---
 
 ### 四、积分学（积分理论）
