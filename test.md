@@ -43,7 +43,7 @@ $$3 \lim_{t \to 0} \frac{\sin t}{t} = 3 \cdot 1 = 3$$
 $$\lim_{x \to +\infty} \frac{3x^2 + 2x - 1}{2x^2 - x + 5} = \lim_{x \to +\infty} \frac{3 + \frac{2}{x} - \frac{1}{x^2}}{2 - \frac{1}{x} + \frac{5}{x^2}}$$
 
 当 $x \to +\infty$ 时：
-- $\frac{2}{x} \to 0$，$\frac{1}{x^2} \to 0$ ， $\frac{1}{x} \to 0$，$\frac{5}{x^2} \to 0$
+- $\frac{2}{x} \to 0$ ， $\frac{1}{x^2} \to 0$ ， $\frac{1}{x} \to 0$ ， $\frac{5}{x^2} \to 0$
 
 因此：
 $$\lim_{x \to +\infty} \frac{3 + 0 - 0}{2 - 0 + 0} = \frac{3}{2}$$
