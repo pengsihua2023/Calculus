@@ -13,7 +13,7 @@
 - [函数的极限综合练习题](https://github.com/pengsihua2023/Calculus/blob/main/01.%20%E5%87%BD%E6%95%B0%E4%B8%8E%E6%9E%81%E9%99%90/%E5%87%BD%E6%95%B0%E7%9A%84%E6%9E%81%E9%99%90%E7%BB%BC%E5%90%88%E7%BB%83%E4%B9%A0%E9%A2%98.md)
 
 ---
-- I. Functions and Limits
+I. Functions and Limits
 - 01 The Concept of Functions and Basic Elementary Functions
 - 02 Sequences and Limits
 - 03 Limits of Functions
@@ -59,11 +59,11 @@ II. Differential Calculus (Derivatives and Differentials)
 ---
 III. Applications of Differential Calculus
 
-- Monotonicity and Extrema of Functions
-- Concavity, Convexity, and Inflection Points
-- Asymptotes and Curve Sketching
-- Maximum and Minimum Value Problems
-- Approximation and Taylor’s Formula
+- 01 Monotonicity and Extrema of Functions
+- 02 Concavity, Convexity, and Inflection Points
+- 03 Asymptotes and Curve Sketching
+- 04 Maximum and Minimum Value Problems
+- 05 Approximation and Taylor’s Formula
 ---
 
 ### 四、积分学（积分理论）
@@ -74,10 +74,10 @@ III. Applications of Differential Calculus
 ---
 IV. Integral Calculus (Theory of Integration)
 
-- Indefinite Integrals and Integration Formulas
-- Definition and Properties of Definite Integrals
-- Newton–Leibniz Formula
-- Integration Methods (Substitution, Integration by Parts, Partial Fractions, etc.)
+- 01 Indefinite Integrals and Integration Formulas
+- 02 Definition and Properties of Definite Integrals
+- 03 Newton–Leibniz Formula
+- 04 Integration Methods (Substitution, Integration by Parts, Partial Fractions, etc.)
 ---
 
 ### 五、积分学的应用
@@ -88,9 +88,9 @@ IV. Integral Calculus (Theory of Integration)
 ---
 V. Applications of Integral Calculus
 
-- Applications of Definite Integrals in Geometry (Area of Curvilinear Trapezoids, Volumes of Solids of Revolution, Arc Length, Surface Area)
-- Applications of Definite Integrals in Physics (Work, Center of Mass, Moments, etc.)
-- Improper Integrals
+- 01 Applications of Definite Integrals in Geometry (Area of Curvilinear Trapezoids, Volumes of Solids of Revolution, Arc Length, Surface Area)
+- 02 Applications of Definite Integrals in Physics (Work, Center of Mass, Moments, etc.)
+- 03 Improper Integrals
 ---
 
 ### 六、数列与级数
@@ -103,10 +103,10 @@ V. Applications of Integral Calculus
 ---
 VI. Sequences and Series
 
-- Series of Terms and Convergence Tests
-- Power Series and Interval of Convergence
-- Taylor Series Expansion
-- Fourier Series
+- 01 Series of Terms and Convergence Tests
+- 02 Power Series and Interval of Convergence
+- 03 Taylor Series Expansion
+- 04 Fourier Series
 ---
 
 ### 七、多元函数微积分
@@ -122,13 +122,13 @@ VI. Sequences and Series
 ---
 VII. Multivariable Calculus
 
-- Multivariable Functions and Partial Derivatives
-- Total Differential and Differentiability
-- Extrema and Constrained Extrema of Multivariable Functions (Lagrange Multipliers)
-- Multiple Integrals (Plane and Spatial Regions)
-- Applications of Multiple Integrals
-- Line Integrals and Surface Integrals
-- Green’s Theorem, Stokes’ Theorem, Gauss’s Theorem
+- 01 Multivariable Functions and Partial Derivatives
+- 02 Total Differential and Differentiability
+- 03 Extrema and Constrained Extrema of Multivariable Functions (Lagrange Multipliers)
+- 04 Multiple Integrals (Plane and Spatial Regions)
+- 05 Applications of Multiple Integrals
+- 06 Line Integrals and Surface Integrals
+- 07 Green’s Theorem, Stokes’ Theorem, Gauss’s Theorem
 ---
 
 ### 八、微分方程
@@ -140,8 +140,8 @@ VII. Multivariable Calculus
 ---
 VIII. Differential Equations
 
-- First-Order Differential Equations
-- Higher-Order Ordinary Differential Equations
-- Simple Applications (Five Financial Models)
+- 01 First-Order Differential Equations
+- 02 Higher-Order Ordinary Differential Equations
+- 03 Simple Applications (Five Financial Models)
 ---
 
