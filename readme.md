@@ -35,6 +35,7 @@ Comprehensive Exercises on Limits of Functions
 * [洛必达法则与无穷小比较](https://github.com/pengsihua2023/Calculus/blob/main/02.%20%E5%BE%AE%E5%88%86%E5%AD%A6%EF%BC%88%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86%EF%BC%89/07.%20%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99%E4%B8%8E%E6%97%A0%E7%A9%B7%E5%B0%8F%E6%AF%94%E8%BE%83.md)
 
 ---
+
 II. Differential Calculus (Derivatives and Differentials)
 
 Definition and Geometric Meaning of Derivatives
@@ -44,7 +45,9 @@ Differentiation of Implicit Functions and Parametric Equations
 Related Rates Problems
 The Concept and Applications of Differentials
 L’Hospital’s Rule and Comparison of Infinitesimals
+
 ---
+
 
 ### 三、微分学的应用
 
