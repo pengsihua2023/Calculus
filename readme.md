@@ -35,6 +35,16 @@ Comprehensive Exercises on Limits of Functions
 * [洛必达法则与无穷小比较](https://github.com/pengsihua2023/Calculus/blob/main/02.%20%E5%BE%AE%E5%88%86%E5%AD%A6%EF%BC%88%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86%EF%BC%89/07.%20%E6%B4%9B%E5%BF%85%E8%BE%BE%E6%B3%95%E5%88%99%E4%B8%8E%E6%97%A0%E7%A9%B7%E5%B0%8F%E6%AF%94%E8%BE%83.md)
 
 ---
+II. Differential Calculus (Derivatives and Differentials)
+
+Definition and Geometric Meaning of Derivatives
+Basic Differentiation Rules
+Higher-Order Derivatives
+Differentiation of Implicit Functions and Parametric Equations
+Related Rates Problems
+The Concept and Applications of Differentials
+L’Hospital’s Rule and Comparison of Infinitesimals
+---
 
 ### 三、微分学的应用
 
@@ -45,13 +55,27 @@ Comprehensive Exercises on Limits of Functions
 * [近似计算与泰勒公式](https://github.com/pengsihua2023/Calculus/blob/main/03.%20%E5%BE%AE%E5%88%86%E5%AD%A6%E7%9A%84%E5%BA%94%E7%94%A8/05.%20%E8%BF%91%E4%BC%BC%E8%AE%A1%E7%AE%97%E4%B8%8E%E6%B3%B0%E5%8B%92%E5%85%AC%E5%BC%8F.md)
 
 ---
+III. Applications of Differential Calculus
+
+Monotonicity and Extrema of Functions
+Concavity, Convexity, and Inflection Points
+Asymptotes and Curve Sketching
+Maximum and Minimum Value Problems
+Approximation and Taylor’s Formula
+---
 
 ### 四、积分学（积分理论）
 * 不定积分与积分公式   
 * 定积分的定义与性质
 * 牛顿–莱布尼茨公式]()
 * 积分方法（换元法、分部积分法、分项展开等）
+---
+IV. Integral Calculus (Theory of Integration)
 
+Indefinite Integrals and Integration Formulas
+Definition and Properties of Definite Integrals
+Newton–Leibniz Formula
+Integration Methods (Substitution, Integration by Parts, Partial Fractions, etc.)
 ---
 
 ### 五、积分学的应用
@@ -59,7 +83,12 @@ Comprehensive Exercises on Limits of Functions
 * [定积分在几何上的应用（曲边梯形面积、旋转体体积、弧长、曲面面积）](https://github.com/pengsihua2023/Calculus/blob/main/05.%20%E7%A7%AF%E5%88%86%E5%AD%A6%E7%9A%84%E5%BA%94%E7%94%A8/01.%20%E5%AE%9A%E7%A7%AF%E5%88%86%E5%9C%A8%E5%87%A0%E4%BD%95%E4%B8%8A%E7%9A%84%E5%BA%94%E7%94%A8%EF%BC%88%E6%9B%B2%E8%BE%B9%E6%A2%AF%E5%BD%A2%E9%9D%A2%E7%A7%AF%E3%80%81%E6%97%8B%E8%BD%AC%E4%BD%93%E4%BD%93%E7%A7%AF%E3%80%81%E5%BC%A7%E9%95%BF%E3%80%81%E6%9B%B2%E9%9D%A2%E9%9D%A2%E7%A7%AF%EF%BC%89.md)
 * [定积分在物理中的应用（功、质心、力矩等）](https://github.com/pengsihua2023/Calculus/blob/main/05.%20%E7%A7%AF%E5%88%86%E5%AD%A6%E7%9A%84%E5%BA%94%E7%94%A8/02.%20%E5%AE%9A%E7%A7%AF%E5%88%86%E5%9C%A8%E7%89%A9%E7%90%86%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%EF%BC%88%E5%8A%9F%E3%80%81%E8%B4%A8%E5%BF%83%E3%80%81%E5%8A%9B%E7%9F%A9%E7%AD%89%EF%BC%89.md)
 * [广义积分](https://github.com/pengsihua2023/Calculus/blob/main/05.%20%E7%A7%AF%E5%88%86%E5%AD%A6%E7%9A%84%E5%BA%94%E7%94%A8/03.%20%E5%B9%BF%E4%B9%89%E7%A7%AF%E5%88%86.md)
+---
+V. Applications of Integral Calculus
 
+Applications of Definite Integrals in Geometry (Area of Curvilinear Trapezoids, Volumes of Solids of Revolution, Arc Length, Surface Area)
+Applications of Definite Integrals in Physics (Work, Center of Mass, Moments, etc.)
+Improper Integrals
 ---
 
 ### 六、数列与级数
@@ -69,6 +98,13 @@ Comprehensive Exercises on Limits of Functions
 * [泰勒级数展开](https://github.com/pengsihua2023/Calculus/blob/main/06.%20%E6%95%B0%E5%88%97%E4%B8%8E%E7%BA%A7%E6%95%B0/03.%20%E6%B3%B0%E5%8B%92%E7%BA%A7%E6%95%B0%E5%B1%95%E5%BC%80.md)
 * [傅里叶级数](https://github.com/pengsihua2023/Calculus/blob/main/06.%20%E6%95%B0%E5%88%97%E4%B8%8E%E7%BA%A7%E6%95%B0/04.%20%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0.md)
 
+---
+VI. Sequences and Series
+
+Series of Terms and Convergence Tests
+Power Series and Interval of Convergence
+Taylor Series Expansion
+Fourier Series
 ---
 
 ### 七、多元函数微积分
@@ -82,6 +118,16 @@ Comprehensive Exercises on Limits of Functions
 * [格林公式、斯托克斯公式、高斯公式](https://github.com/pengsihua2023/Calculus/blob/main/07.%20%E5%A4%9A%E5%85%83%E5%87%BD%E6%95%B0%E5%BE%AE%E7%A7%AF%E5%88%86/07.%20%E6%A0%BC%E6%9E%97%E5%85%AC%E5%BC%8F%E3%80%81%E6%96%AF%E6%89%98%E5%85%8B%E6%96%AF%E5%85%AC%E5%BC%8F%E3%80%81%E9%AB%98%E6%96%AF%E5%85%AC%E5%BC%8F.md)
 
 ---
+VII. Multivariable Calculus
+
+Multivariable Functions and Partial Derivatives
+Total Differential and Differentiability
+Extrema and Constrained Extrema of Multivariable Functions (Lagrange Multipliers)
+Multiple Integrals (Plane and Spatial Regions)
+Applications of Multiple Integrals
+Line Integrals and Surface Integrals
+Green’s Theorem, Stokes’ Theorem, Gauss’s Theorem
+---
 
 ### 八、微分方程
 
@@ -89,5 +135,11 @@ Comprehensive Exercises on Limits of Functions
 * [高阶常微分方程](https://github.com/pengsihua2023/Calculus/blob/main/08.%20%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/02.%20%E9%AB%98%E9%98%B6%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B.md)
 * [简单应用（五个金融模型）](https://github.com/pengsihua2023/Calculus/blob/main/08.%20%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B/03.%20%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8%EF%BC%88%E4%BA%94%E4%B8%AA%E9%87%91%E8%9E%8D%E6%A8%A1%E5%9E%8B%EF%BC%89.md)
 
+---
+VIII. Differential Equations
+
+First-Order Differential Equations
+Higher-Order Ordinary Differential Equations
+Simple Applications (Five Financial Models)
 ---
 
