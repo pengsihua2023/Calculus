@@ -189,7 +189,7 @@ $$\lim_{n \to \infty} \ln y = \lim_{n \to \infty} 2n \ln\left(1 + \frac{1}{n}\ri
 这是 $\frac{0}{0}$ 型，使用洛必达法则：
 $$= \lim_{n \to \infty} \frac{2 \cdot \frac{1}{1 + \frac{1}{n}} \cdot \left(-\frac{1}{n^2}\right)}{-\frac{1}{n^2}} = \lim_{n \to \infty} \frac{2}{1 + \frac{1}{n}} = 2$$
 
-因此：$\lim_{n \to \infty} y = e^2$
+因此： $\lim_{n \to \infty} y = e^2$
 
 **答案**： $e^2$
 
