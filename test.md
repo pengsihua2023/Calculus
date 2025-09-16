@@ -111,6 +111,12 @@ $$\lim_{x \to 0} \frac{1 - \cos x}{x^2} = \lim_{x \to 0} \frac{\sin x}{2x} = \li
 ---
 
 ## 🎯 题目7：分段函数极限
+$$
+f(x) = \begin{cases}
+x^2 + 1, & x < 2 \\
+3x - 1, & x \geq 2
+\end{cases}
+$$
 
 **题目**：设    
 $$f(x) = \begin{cases} x^2 + 1 & x < 2 \\ 3x - 1 & x \geq 2 \end{cases}$$
